@@ -114,7 +114,7 @@ These KPIs provide a high-level summary of overall sales performance.
    Apple leads in both total sales and units sold, followed closely by Samsung and OnePlus. This indicates high customer demand for premium smartphones.
 
 2. **City-wise Sales Distribution:**
-   Delhi and Mumbai together account for over 40% of total sales, suggesting a strong market presence in metropolitan cities.
+   Delhi and Mumbai together account for over 43% of total sales, suggesting a strong market presence in metropolitan cities.
 
 3. **Preferred Payment Methods:**
    UPI and Debit Cards are the most popular payment methods, reflecting the growing adoption of digital payments.
