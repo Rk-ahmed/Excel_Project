@@ -3,6 +3,12 @@
 #### **Project Overview:**
 In this project, I developed an **interactive Excel dashboard** to analyze mobile sales data across various brands, cities, and customer demographics. The objective was to derive actionable insights into brand performance, sales trends, and customer preferences, while showcasing advanced Excel skills such as pivot tables, slicers, dynamic charts, and KPI metrics. This project aims to demonstrate my expertise in data analysis, dashboard creation, and business insight generation.
 
+### Dashboard Overview
+
+![Dashboard Overview](Dashboard1.png)
+
+![Dashboard Overview](Dashboard2.png)
+
 ---
 
 #### **Dataset Description:**
